@@ -48,23 +48,23 @@ States:
 
            0    1
            
-   *qr |   sr  qpr
+    *qr |   sr  qpr
    
-   *sr |   s    p
+    *sr |   s    p
    
-  *qsr |   sr  qpr
+    *qsr |   sr  qpr
   
     *q |   r    qr
     
     *s |   ø    p
     
-  *qpr |  qsr  qpr
+    *qpr |  qsr  qpr
   
      r |   s    p
      
-   *qs |   r   qpr
+    *qs |   r   qpr
    
-   ->p |   qs   q
+    ->p |   qs   q
    
      ø |   ø    ø
      
