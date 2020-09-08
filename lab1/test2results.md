@@ -68,7 +68,7 @@ States:
     
     rqp |  qrp    rs
     
-  *rsqp |  rqp   rsqp
+    *rsqp |  rqp   rsqp
   
     *rs |   r    rsqp
     
